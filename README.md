@@ -2,6 +2,7 @@
 This will give students insight on how to use GItlab from the terminal and mimic real world work environments.
 Created: 2/23/2026 - Mr.Shekhar Adhikari
 Assignment Instructions
+
 Step 1: Clone the Repository
 Clone this repository to your local machine.
 
