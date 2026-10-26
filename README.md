@@ -1,8 +1,7 @@
-# CS-II---GitlubTeamPractice
-This will give students insight on how to use GItlab from the terminal and mimic real world work environments.
-Created: 2/23/2026 - Mr.Shekhar Adhikari
-Assignment Instructions
+CS-II GitHub Team Practice
+This project will give students insight into how to use GitHub from the terminal and mimic real-world software development environments.
 
+Assignment Instructions
 Step 1: Clone the Repository
 Clone this repository to your local machine.
 
@@ -62,7 +61,12 @@ One merged contribution
 Learning Objectives
 By completing this activity, students will:
 
+Learn Git and GitHub fundamentals
+Use Git from the command line
+Practice branching and merging
+Create and manage Pull Requests
+Participate in peer code reviews
+Experience real-world software development workflows
 Created: 2/23/2026
 Instructor: Mr. Shekhar Adhikari
 Course: CS-II
-
