@@ -1,4 +1,8 @@
-CS-II GitHub Team Practice
+CS-II
+Shekhar Adhikari
+3/20/2026
+
+GitHub Team Practice
 This project will give students insight into how to use GitHub from the terminal and mimic real-world software development environments.
 
 Assignment Instructions
